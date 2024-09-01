@@ -8,5 +8,4 @@ Benefits of an HRM System -
 5.Data-Driven Decisions: Offers analytics and reporting tools to support informed decision-making and strategic planning.
 
 
-
-![image](https://github.com/user-attachments/assets/0fd3e0a2-8725-4988-b911-16c84147fdbd)
+![image](https://github.com/user-attachments/assets/bbd8d27a-8c3a-48b8-acc4-6ae442d845b0)
